@@ -1,4 +1,4 @@
-# cursor-mover
+# cursor-mover-test
 AFK Cursor Mover
 
 ## Getting Started
